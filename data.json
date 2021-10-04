@@ -45,5 +45,11 @@
         "img":"https://i.ibb.co/cxrNvKn/python.jpg",
         "ServiceName":"Python",
         "price":"150$"
+        },
+    {
+        "key":9,
+        "img":"https://sadman-707.imgbb.com/",
+        "ServiceName":"React",
+        "price":"250$"
         }
     ]
